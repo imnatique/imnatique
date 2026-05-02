@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🖥 MERN Stack Developer <br>
+🖥 Full-Stack Software Engineer <br>
 🎓 B.Tech Computer Science — JIS University (Class of 2026)
 
 </div>
